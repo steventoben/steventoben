@@ -1,5 +1,29 @@
-#Hey, I'm Steven Toben :)
+# Hey, I'm Steven Toben.
+I'm a 21 year old Full-Stack Software Engineer.
+I have a very broad range of skills, but I'm most skilled at:
+* ReactJS
+* SASS
+* JavaScript
+* NodeJS
+* Java
+* Spring Framework
+* C#
+* ASP NET Core Framework
+* Apache Kafka
+* Redis
+* PostgreSQL
+* MongoDB
+* AWS
+* Software Architecture
 
+I also have experience in other technologies but I'm currently interested in:
+* Go
+* gRPC
+* Protobuf 3
+* Apache Casandra
+* Apache Spark
+* Apache Hadoop
+* Tensorflow
 <!--
 **steventoben/steventoben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

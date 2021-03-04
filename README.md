@@ -2,6 +2,7 @@
 I'm a 21 year old Full-Stack Software Engineer.
 I have a very broad range of skills, but I'm most skilled at:
 * ReactJS
+* NextJS
 * SASS
 * JavaScript
 * NodeJS
@@ -17,6 +18,7 @@ I have a very broad range of skills, but I'm most skilled at:
 * Software Architecture
 
 I also have experience in other technologies but I'm currently interested in:
+* Angular
 * Go
 * gRPC
 * Protobuf 3

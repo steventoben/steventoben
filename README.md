@@ -1,11 +1,23 @@
 # Hey, I'm Steven Toben.
 I'm a 22 year old Full-Stack Software Engineer.
 
-I have experience at top tech companies such as Amazon.
+I have professional experience at top tech companies such as Amazon, as well as other Fortune 500 companies.
 
-I'm currently working on a few personal projects for fun:
-  - Social media web app (ReactJS/TypeScript/Sass/NestJS/NodeJS/Express/PostgreSQL/Redis/Neo4j)
-  - Real time websockets chat app (mainly an expiriment to implement real-time updates for my social media app) (mainly React/Nest/Redis)
-  - Admin dashboard with rich text editor (for improving social media app's post editor and a future blog project) (NextJS/Meta's Lexical)
-  - Personal design system and React component library
-  - Various React modules
+I have a passion for learning new technologies and continuously building my skillset. I stay up to date with the latest technologies, but I also make sure to keep improving my skills with mature and proven technologies. 
+
+I have experience with most mainstream languages and technologies. I believe in having a strong foundation in the fundamentals and concepts of programming and software engineering, as this makes switching between languages and learning new technologies very simple. With that said, I tend to gravitate towards certain languages and technologies as they provide my favorite developer experience.
+
+Technology-wise, these are my go-tos and my specialties:
+  - ReactJS (and JSX and HTML)
+  - Sass (and CSS)
+  - TypeScript (and JavaScript)
+  - Java
+  - Spring Boot/Spring Data/Spring Security (Java)
+  - NodeJS and Express
+  - NestJS (TypeScript framework for Express run with NodeJS)
+  - Angular
+  - SQL (PostgreSQL and SQL Server)
+  - Redis
+  - NoSQL Document stores (MongoDB and DynamoDB)
+  - Docker
+  - AWS

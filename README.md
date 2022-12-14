@@ -1,5 +1,5 @@
 # Hey, I'm Steven Toben.
-I'm a 22 year old Full-Stack Software Engineer.
+I'm a 23 year old Full-Stack Software Engineer.
 
 I have professional experience at top tech companies such as Amazon, as well as other Fortune 500 companies.
 
@@ -9,15 +9,23 @@ I have experience with most mainstream languages and technologies. I believe in 
 
 Technology-wise, these are my go-tos and my specialties:
   - ReactJS (and JSX and HTML)
-  - Sass (and CSS)
   - TypeScript (and JavaScript)
   - Java
   - Spring Boot/Spring Data/Spring Security (Java)
+  - Sass (and CSS)
   - NodeJS and Express
   - NestJS (TypeScript framework for Express run with NodeJS)
   - Angular
   - SQL (PostgreSQL and SQL Server)
   - Redis
-  - NoSQL Document stores (MongoDB and DynamoDB)
-  - Docker
-  - AWS
+  - MongoDB
+  - DynamoDB
+  - Docker and Docker Compose
+  - AWS services
+
+My latest interests are:
+  - Kubernetes
+  - Quarkus (Java)
+  - ElasticSearch
+  - Kafka
+  - General software architecture and engineering
